@@ -7,7 +7,6 @@ import java.util.Scanner;
 public class Main {
     private static ClaimManager mgr = new ClaimManager();
     private static Scanner sc = new Scanner(System.in);
-
     public static void main(String[] args) {
         mgr.loadData();
         while (true) {
