@@ -1,3 +1,4 @@
+package claimshield
 public class Customer {
     private String id, fullName, customerType, parentPolicyHolderId;
 
