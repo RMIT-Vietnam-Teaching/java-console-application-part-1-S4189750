@@ -1,0 +1,5 @@
+u-001|admin|admin123|Root Administrator|admin@claimshield.com|ADMIN|ACTIVE
+u-002|officer1|off123|Sarah Jenkins|s.jenkins@claimshield.com|OFFICER|ACTIVE
+u-003|officer2|off123|Michael Chang|m.chang@claimshield.com|OFFICER|ACTIVE
+u-004|cust_john|cust123|John Doe|john.doe@gmail.com|CUSTOMER|ACTIVE
+u-005|cust_alice|cust123|Alice Smith|alice.smith@yahoo.com|CUSTOMER|ACTIVE
